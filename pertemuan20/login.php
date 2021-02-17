@@ -84,6 +84,9 @@ if (isset($_POST["login"])){
         <li>
             <button type="submit" name="login">Login</button>
         </li>
+        <li>
+           <button formaction="registrasi.php">Daftar Sekarang !</button>
+        </li>
     </ul>
     </form>
 </body>

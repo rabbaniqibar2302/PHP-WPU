@@ -46,6 +46,9 @@ if (isset ($_POST["register"])){
         <li>
             <button type="submit" name="register">Register</button>
         </li>
+        <li>
+           <button formaction="login.php">Login</button>
+        </li>
     </ul>
 </form>
     
